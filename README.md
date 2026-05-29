@@ -1,9 +1,9 @@
-# 🔍 Analisis Pola Kriminalitas Chicago 2025
+# Analisis Pola Kriminalitas Chicago 2025
 ### Perbandingan Algoritma Apriori dan FP-Growth dalam Association Rule Mining
 
 ---
 
-## 📋 Deskripsi Proyek
+## Deskripsi Proyek
 
 Proyek ini menganalisis pola kriminalitas Kota Chicago tahun 2025 menggunakan teknik **Association Rule Mining**. Tujuannya adalah menemukan pola tersembunyi antara jenis kejahatan, lokasi, waktu, dan status penangkapan — sehingga dapat memberikan insight yang berguna bagi penegak hukum dalam mengalokasikan sumber daya dan merancang strategi pencegahan kejahatan.
 
@@ -22,7 +22,7 @@ Dua algoritma dibandingkan secara langsung: **Apriori** dan **FP-Growth**, dari 
 
 ---
 
-## 📦 Library yang Digunakan
+## Library yang Digunakan
 
 | Library | Versi | Fungsi |
 |---|---|---|
@@ -37,7 +37,7 @@ Dua algoritma dibandingkan secara langsung: **Apriori** dan **FP-Growth**, dari 
 
 ---
 
-## 🔄 Langkah Pengerjaan
+## Langkah Pengerjaan
 
 ### 1. Pemahaman Data (Data Understanding)
 - Load dataset CSV kriminalitas Chicago 2025
