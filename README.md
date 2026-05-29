@@ -22,16 +22,6 @@ Dua algoritma dibandingkan secara langsung: **Apriori** dan **FP-Growth**, dari 
 
 ---
 
-## 🛠️ Tools yang Digunakan
-
-| Tool | Kegunaan |
-|---|---|
-| Google Colab | Environment pengerjaan notebook |
-| Python 3.10 | Bahasa pemrograman utama |
-| Jupyter Notebook (.ipynb) | Format dokumentasi kode |
-
----
-
 ## 📦 Library yang Digunakan
 
 | Library | Versi | Fungsi |
