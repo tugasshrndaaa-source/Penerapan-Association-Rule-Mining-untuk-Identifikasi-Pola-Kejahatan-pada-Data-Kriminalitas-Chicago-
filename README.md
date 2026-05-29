@@ -128,14 +128,3 @@ Dua algoritma dibandingkan secara langsung: **Apriori** dan **FP-Growth**, dari 
 5. **Dini hari di Area Tengah Chicago** secara konsisten menjadi kondisi berisiko tinggi dengan minim penangkapan.
 
 ---
-
-## 📁 Struktur File
-
-```
-├── data kriminal chicago 2025.csv   # Dataset
-├── Source_Code_Kelompok_2.ipynb     # Notebook utama
-├── eda_distribusi.png               # Output visualisasi EDA
-├── crime_rules_viz.png              # Output visualisasi rules
-├── rules_apriori.csv                # Export rules Apriori
-└── rules_fpgrowth.csv               # Export rules FP-Growth
-```
